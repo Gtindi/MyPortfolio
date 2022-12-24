@@ -2,7 +2,7 @@
 
 <p align="center">
   <kbd>
-    <img src="https://github.com/Gtindi/MyPortfolio/blob/master/picture.PNG"></img>
+    <img src="https://github.com/Gtindi/MyPortfolio/blob/main/picture.png"></img>
   </kbd>
 </p>
 
