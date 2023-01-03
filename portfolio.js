@@ -4,7 +4,7 @@ export const greetings = {
 	name: "Gabriel Tindi",
 	title: "Hi all, I'm Gabriel Tindi",
 	description:
-		"I'm a passionate Software Engineer having an experience of web applications with Python, Django, Flask, React.js, Next.js, Data Science, Machine Learning and Artificial Intelligence.",
+		"I am a professional Software Engineer having an experience of web applications with Python, Django, Flask, React.js, Next.js, Data Science, Game Development, Machine Learning and Artificial Intelligence. I am passionate about creating software solutions that are both effective and efficient. I believe strongly in the power of technology to improve our lives and I strive to apply my skills to that end.",
 	resumeLink:
 		// "https://docs.google.com/document/d/1_4RIfbyt4FFHW_bNplnoINQr01neTu7XDeeUlT_2O_k/edit?usp=sharing",
 		"",
@@ -28,7 +28,7 @@ export const socialLinks = {
 export const skillsSection = {
 	title: "What I do",
 	subTitle:
-		"CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+		"PASSIONATE SOFTWARE ENGINEER WHO WANTS TO EXPLORE EVERY TECH STACK",
 	data: [
 		{
 			title: "Full Stack Development",
@@ -157,44 +157,12 @@ export const skillsSection = {
 			softwareSkills: [
 				// ? Check README To get icon details
 				{
-					skillName: "AWS",
-					fontAwesomeClassname: "logos:aws",
-				},
-				{
-					skillName: "Azure",
-					fontAwesomeClassname: "logos:microsoft-azure",
-				},
-				{
-					skillName: "Heroku",
-					fontAwesomeClassname: "logos:heroku-icon",
-				},
-				{
-					skillName: "PostgreSQL",
-					fontAwesomeClassname: "logos:postgresql",
+					skillName: "Unity",
+					fontAwesomeClassname: "logos:unity",
 				},
 				{
 					skillName: "Github",
 					fontAwesomeClassname: "akar-icons:github-fill",
-				},
-				{
-					skillName: "Docker",
-					fontAwesomeClassname: "logos:docker-icon",
-				},
-				{
-					skillName: "Github Actions",
-					fontAwesomeClassname: "logos:github-actions",
-				},
-				{
-					skillName: "Cloudinary",
-					fontAwesomeClassname: "logos:cloudinary",
-				},
-				{
-					skillName: "Nginx",
-					fontAwesomeClassname: "logos:nginx",
-				},
-				{
-					skillName: "Sentry",
-					fontAwesomeClassname: "logos:sentry-icon",
 				},
 			],
 		},
@@ -462,19 +430,19 @@ export const showContactUs = true;
 
 // See object prototype on SEO.jsx page
 export const seoData = {
-	title: "Hanzla Tauqeer",
+	title: "Gabriel Tindi",
 	description:
 		"A passionate Full Stack Web Developer and Blockchain Developer.",
-	author: "Hanzla Tauqeer",
+	author: "Gabriel Tindi",
 	image: "https://avatars3.githubusercontent.com/u/59178380?v=4",
 	url: "https://developer-portfolio-1hanzla100.vercel.app",
 	keywords: [
-		"Hanzla",
-		"Hanzla Tauqeer",
-		"@1hanzla100",
-		"1hanzla100",
+		"Tindi",
+		"Gabriel Tindi",
+		"@Gtindi",
+		"Gtindi",
 		"Portfolio",
-		"Hanzla Portfolio ",
-		"Hanzla Tauqeer Portfolio",
+		"Tindi Portfolio ",
+		"Gabriel Tindi Portfolio",
 	],
 }
