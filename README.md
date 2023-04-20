@@ -93,7 +93,7 @@ Iconify Icons are used in skill section. You can find all the icons here: [Iconi
 
 ## For the Future
 
-If you can help us with these. Please don't hesitate to open a [pull request](https://github.com/Gtindi/MyPortfolio/pulls).
+If you can help me with these. Please don't hesitate to open a [pull request](https://github.com/Gtindi/MyPortfolio/pulls).
 
 -   Enable Dark Mode
 
