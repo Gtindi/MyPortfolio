@@ -46,3 +46,23 @@ export async function getStaticProps(_) {
     props: { githubProfileData },
   };
 }
+
+// const port = process.env.PORT || 3001;
+// app.listen(port, () => {
+//   console.log(`server started on ${port}`);
+// })
+
+
+const http = require('http');
+
+const PORT = 3031;
+
+const server = http.createServer((req, res) => {
+  res.statusCode = 200;
+  res.setHeader('Content-Type', 'text/plain');
+  res.end('Hello World!\n');
+});
+
+server.listen(PORT, () => {
+  console.log(`Server running on port ${PORT}`);
+});
